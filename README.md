@@ -13,8 +13,7 @@ C++: For implementing the core logic.
 
 How to Run
 Clone the repository:
-bash
-Copy code
-git clone <repository-url>
+
+git clone <repository-url> then...
 Build the project using Visual Studio with Imgui set up in the same path.
-Run the executable.
+-> run the final code
