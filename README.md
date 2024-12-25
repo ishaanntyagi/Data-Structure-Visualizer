@@ -4,12 +4,20 @@ A tool to visualize sorting algorithms, linked lists, and arrays in real-time. B
 
 Features
 Visualizes real-time operations like insertion, deletion, and sorting.
+
 Interactive GUI for user-friendly controls.
+
 Supports linked lists, stacks, queues, and various sorting algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.).
-Technologies Used
+
+
+Technologies Used:
+
 OpenGL: For graphical rendering.
+
 Dear ImGui: For an intuitive graphical interface.
+
 C++: For implementing the core logic.
+
 
 How to Run
 Clone the repository:
