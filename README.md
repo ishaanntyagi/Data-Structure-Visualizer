@@ -25,3 +25,9 @@ Clone the repository:
 git clone <repository-url> then...
 Build the project using Visual Studio with Imgui set up in the same path.
 -> run the final code
+
+
+![Screenshot 1](Screenshot%202024-12-26%20005812.png)
+![Screenshot 2](Screenshot%202024-12-26%20005915.png)
+![Screenshot 3](Screenshot%202024-12-26%20005932.png)
+![Screenshot 4](Screenshot%202024-new.png)
